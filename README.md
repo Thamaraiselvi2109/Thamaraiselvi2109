@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **thamaraiselvig2109@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1nrpo-M_DycQ5plmlt5QuB2DZ-eFr-ZgZ/view](https://drive.google.com/file/d/1nrpo-M_DycQ5plmlt5QuB2DZ-eFr-ZgZ/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1tHdk_VbgkPXOLvN9M9b7KdCp2JgjcIG3/view?usp=sharing]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

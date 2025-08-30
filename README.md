@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/thamarai2109" target="blank"><img src="https://img.shields.io/twitter/follow/thamarai2109?logo=twitter&style=for-the-badge" alt="thamarai2109" /></a> </p>
 
-- 🔭 I’m currently working on **Chingari**
+- 🔭 I’m currently working on **Nomoex global technologies**
 
 - 🌱 I’m currently learning **React, Redux, GraphQl**
 
